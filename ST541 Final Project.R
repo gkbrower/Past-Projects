@@ -1,4 +1,4 @@
-#Objective of this Project:
+# Objective of this Project:
 #  Get a dataset approved by the instructor, then run any number of analyses on the dataset in order to
 #  get useful, actionable data. Outputs from this code was then used in a PowerPoint and a final paper.
 
